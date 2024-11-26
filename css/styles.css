@@ -526,13 +526,13 @@ form {
   display: flex;
   gap: 24px;
 }
-.footer-subscribe-text {
+.footer-text-subscribe {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
 }
 /* #endregion */
 .backdrop {
