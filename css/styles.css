@@ -522,7 +522,7 @@ img {
   margin-left: 16px;
   fill: #ffffff;
 }
-form {
+.footer-form {
   display: flex;
   gap: 24px;
 }
@@ -617,10 +617,6 @@ form {
   margin-bottom: 16px;
 }
 
-.modal-form {
-  display: flex;
-  gap: 24px;
-}
 .modal-form-field {
   margin-bottom: 8px;
 }
